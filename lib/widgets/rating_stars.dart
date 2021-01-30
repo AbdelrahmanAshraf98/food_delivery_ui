@@ -6,8 +6,9 @@ class RatingStars extends StatelessWidget {
   Widget build(BuildContext context) {
     String s = '';
     for(int i = 0  ; i < stars; i++ ){
-        s += '⭐';
+        s += '⭐ ';
     }
+    s.trim();
     return Text(s);
   }
 }
