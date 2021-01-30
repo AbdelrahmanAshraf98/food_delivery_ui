@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="9e0f7b51-8146-41fb-bff0-7b7fd7d84809" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
@@ -8,6 +11,8 @@
       <change beforePath="$PROJECT_DIR$/android/.gradle/4.10.2/taskHistory/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/android/.gradle/4.10.2/taskHistory/taskHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/android/.gradle/4.10.2/taskHistory/taskHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/android/.gradle/4.10.2/taskHistory/taskHistory.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/android/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/android/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/screens/home_screen.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/screens/home_screen.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/widgets/recent_orders.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/widgets/recent_orders.dart" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,7 +30,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1nl2eF3PDvTJ3dypcNQAqqi00MZ" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -35,7 +42,7 @@
     <property name="dart.analysis.tool.window.visible" value="false" />
     <property name="io.flutter.reload.alreadyRun" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
     <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
   <component name="SvnConfiguration">
@@ -49,36 +56,64 @@
       <option name="presentableId" value="Default" />
       <updated>1611950449208</updated>
     </task>
+    <task id="LOCAL-00001" summary="no commit">
+      <created>1611973089371</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1611973089371</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="no commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="no commit" />
+  </component>
   <component name="WindowStateProjectService">
-    <state width="1323" height="145" key="GridCell.Tab.0.bottom" timestamp="1611972614891">
-      <screen x="0" y="0" width="1366" height="768" />
-    </state>
-    <state width="1366" height="169" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1611951129153" />
-    <state width="1034" height="236" key="GridCell.Tab.0.bottom/0.0.1366.768/1366.0.1366.768@1366.0.1366.768" timestamp="1611970224691" />
-    <state width="1323" height="145" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1611972614891" />
-    <state width="1323" height="145" key="GridCell.Tab.0.center" timestamp="1611972614891">
-      <screen x="0" y="0" width="1366" height="768" />
-    </state>
-    <state width="1366" height="169" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1611951129153" />
-    <state width="1034" height="236" key="GridCell.Tab.0.center/0.0.1366.768/1366.0.1366.768@1366.0.1366.768" timestamp="1611970224690" />
-    <state width="1323" height="145" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1611972614891" />
-    <state width="1323" height="145" key="GridCell.Tab.0.left" timestamp="1611972614891">
-      <screen x="0" y="0" width="1366" height="768" />
-    </state>
-    <state width="1366" height="169" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1611951129152" />
-    <state width="1034" height="236" key="GridCell.Tab.0.left/0.0.1366.768/1366.0.1366.768@1366.0.1366.768" timestamp="1611970224689" />
-    <state width="1323" height="145" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1611972614891" />
-    <state width="1323" height="145" key="GridCell.Tab.0.right" timestamp="1611972614891">
-      <screen x="0" y="0" width="1366" height="768" />
-    </state>
-    <state width="1366" height="169" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1611951129153" />
-    <state width="1034" height="236" key="GridCell.Tab.0.right/0.0.1366.768/1366.0.1366.768@1366.0.1366.768" timestamp="1611970224691" />
-    <state width="1323" height="145" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1611972614891" />
-    <state x="184" y="18" key="SettingsEditor" timestamp="1611959483388">
+    <state x="570" y="200" key="#Notifications" timestamp="1612038608346">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="184" y="18" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1611959483388" />
+    <state x="570" y="200" key="#Notifications/0.0.1366.728@0.0.1366.728" timestamp="1612038608346" />
+    <state x="92" y="92" width="1182" height="544" key="AVDManager" timestamp="1612039747788">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="92" y="92" width="1182" height="544" key="AVDManager/0.0.1366.728@0.0.1366.728" timestamp="1612039747788" />
+    <state x="310" y="0" key="CommitChangelistDialog2" timestamp="1611973087620">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="310" y="0" key="CommitChangelistDialog2/0.0.1366.768@0.0.1366.768" timestamp="1611973087620" />
+    <state width="1367" height="122" key="GridCell.Tab.0.bottom" timestamp="1612038783375">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1367" height="122" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1612038783375" />
+    <state width="1034" height="236" key="GridCell.Tab.0.bottom/0.0.1366.768/1366.0.1366.768@1366.0.1366.768" timestamp="1611970224691" />
+    <state width="1323" height="145" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1611972970827" />
+    <state width="1367" height="122" key="GridCell.Tab.0.center" timestamp="1612038783375">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1367" height="122" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1612038783375" />
+    <state width="1034" height="236" key="GridCell.Tab.0.center/0.0.1366.768/1366.0.1366.768@1366.0.1366.768" timestamp="1611970224690" />
+    <state width="1323" height="145" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1611972970827" />
+    <state width="1367" height="122" key="GridCell.Tab.0.left" timestamp="1612038783375">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1367" height="122" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1612038783375" />
+    <state width="1034" height="236" key="GridCell.Tab.0.left/0.0.1366.768/1366.0.1366.768@1366.0.1366.768" timestamp="1611970224689" />
+    <state width="1323" height="145" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1611972970827" />
+    <state width="1367" height="122" key="GridCell.Tab.0.right" timestamp="1612038783375">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1367" height="122" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1612038783375" />
+    <state width="1034" height="236" key="GridCell.Tab.0.right/0.0.1366.768/1366.0.1366.768@1366.0.1366.768" timestamp="1611970224691" />
+    <state width="1323" height="145" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1611972970827" />
+    <state x="184" y="18" key="SettingsEditor" timestamp="1612039457124">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="184" y="18" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1612039457124" />
+    <state x="275" y="113" key="Vcs.Push.Dialog.v2" timestamp="1611973096309">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="275" y="113" key="Vcs.Push.Dialog.v2/0.0.1366.768@0.0.1366.768" timestamp="1611973096309" />
   </component>
 </project>

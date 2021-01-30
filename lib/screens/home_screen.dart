@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter_food_delivery_ui/data/data.dart';
 import '../models/user.dart';
 import '../widgets/recent_orders.dart';
-
+import '../widgets/nearby_restaurants.dart';
 
 class HomeScreen extends StatefulWidget {
   @override
@@ -62,6 +62,7 @@ class _HomeScreenState extends State<HomeScreen> {
               ),
             ),
             RecentOrders(),
+            NearbyRestaurants(),
           ],
         ));
   }
