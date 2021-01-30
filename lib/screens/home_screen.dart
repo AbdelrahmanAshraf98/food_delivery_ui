@@ -19,7 +19,10 @@ class _HomeScreenState extends State<HomeScreen> {
             iconSize: 30.0,
             onPressed: () {},
           ),
-          title: Center(child: Text('Food Delivery')),
+          title: Padding(
+            padding: const EdgeInsets.only(left:35.0),
+            child: Center(child: Text('Food Delivery')),
+          ),
           actions: <Widget>[
             FlatButton(
                 onPressed: () {},
