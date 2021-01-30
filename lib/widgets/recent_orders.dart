@@ -21,7 +21,7 @@ class RecentOrders extends StatelessWidget {
           ClipRRect(
             borderRadius: BorderRadius.circular(15.0),
             child: Image(
-              height: 100.0,
+              height: 101.0,
               width: 100.0,
               image: AssetImage(order.food.imageUrl),
               fit: BoxFit.cover,
