@@ -6,7 +6,13 @@
   <component name="ChangeListManager">
     <list default="true" id="9e0f7b51-8146-41fb-bff0-7b7fd7d84809" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/widgets/rating_stars.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/widgets/rating_stars.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/.gradle/4.10.2/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/android/.gradle/4.10.2/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/.gradle/4.10.2/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/android/.gradle/4.10.2/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/.gradle/4.10.2/taskHistory/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/android/.gradle/4.10.2/taskHistory/taskHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/.gradle/4.10.2/taskHistory/taskHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/android/.gradle/4.10.2/taskHistory/taskHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/android/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/screens/home_screen.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/screens/home_screen.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/widgets/nearby_restaurants.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/widgets/nearby_restaurants.dart" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,7 +77,14 @@
       <option name="project" value="LOCAL" />
       <updated>1612044876523</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Adding (Nearby Restaurants section)">
+      <created>1612045050655</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1612045050655</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -80,51 +93,51 @@
     <option name="LAST_COMMIT_MESSAGE" value="Adding (Nearby Restaurants section)" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="570" y="200" key="#Notifications" timestamp="1612038608346">
+    <state x="570" y="200" key="#Notifications" timestamp="1612060559560">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="570" y="200" key="#Notifications/0.0.1366.728@0.0.1366.728" timestamp="1612038608346" />
-    <state x="92" y="92" width="1182" height="544" key="AVDManager" timestamp="1612039747788">
+    <state x="570" y="200" key="#Notifications/0.0.1366.728@0.0.1366.728" timestamp="1612060559560" />
+    <state x="92" y="92" width="1182" height="544" key="AVDManager" timestamp="1612071021313">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="92" y="92" width="1182" height="544" key="AVDManager/0.0.1366.728@0.0.1366.728" timestamp="1612039747788" />
-    <state x="310" y="0" key="CommitChangelistDialog2" timestamp="1612044873320">
+    <state x="92" y="92" width="1182" height="544" key="AVDManager/0.0.1366.728@0.0.1366.728" timestamp="1612071021313" />
+    <state x="310" y="0" key="CommitChangelistDialog2" timestamp="1612045048523">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="310" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1612044873320" />
+    <state x="310" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1612045048523" />
     <state x="310" y="0" key="CommitChangelistDialog2/0.0.1366.768@0.0.1366.768" timestamp="1611973087620" />
-    <state width="1367" height="140" key="GridCell.Tab.0.bottom" timestamp="1612044632508">
+    <state width="1322" height="182" key="GridCell.Tab.0.bottom" timestamp="1612073243113">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1367" height="140" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1612044632508" />
+    <state width="1322" height="182" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1612073243113" />
     <state width="1034" height="236" key="GridCell.Tab.0.bottom/0.0.1366.768/1366.0.1366.768@1366.0.1366.768" timestamp="1611970224691" />
     <state width="1323" height="145" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1611972970827" />
-    <state width="1367" height="140" key="GridCell.Tab.0.center" timestamp="1612044632508">
+    <state width="1322" height="182" key="GridCell.Tab.0.center" timestamp="1612073243113">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1367" height="140" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1612044632508" />
+    <state width="1322" height="182" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1612073243113" />
     <state width="1034" height="236" key="GridCell.Tab.0.center/0.0.1366.768/1366.0.1366.768@1366.0.1366.768" timestamp="1611970224690" />
     <state width="1323" height="145" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1611972970827" />
-    <state width="1367" height="140" key="GridCell.Tab.0.left" timestamp="1612044632508">
+    <state width="1322" height="182" key="GridCell.Tab.0.left" timestamp="1612073243113">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1367" height="140" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1612044632508" />
+    <state width="1322" height="182" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1612073243113" />
     <state width="1034" height="236" key="GridCell.Tab.0.left/0.0.1366.768/1366.0.1366.768@1366.0.1366.768" timestamp="1611970224689" />
     <state width="1323" height="145" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1611972970827" />
-    <state width="1367" height="140" key="GridCell.Tab.0.right" timestamp="1612044632508">
+    <state width="1322" height="182" key="GridCell.Tab.0.right" timestamp="1612073243113">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1367" height="140" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1612044632508" />
+    <state width="1322" height="182" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1612073243113" />
     <state width="1034" height="236" key="GridCell.Tab.0.right/0.0.1366.768/1366.0.1366.768@1366.0.1366.768" timestamp="1611970224691" />
     <state width="1323" height="145" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1611972970827" />
     <state x="184" y="18" key="SettingsEditor" timestamp="1612044566432">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="184" y="18" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1612044566432" />
-    <state x="275" y="107" key="Vcs.Push.Dialog.v2" timestamp="1612044888436">
+    <state x="275" y="107" key="Vcs.Push.Dialog.v2" timestamp="1612045116906">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="107" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1612044888436" />
+    <state x="275" y="107" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1612045116906" />
     <state x="275" y="113" key="Vcs.Push.Dialog.v2/0.0.1366.768@0.0.1366.768" timestamp="1611973096309" />
     <state x="490" y="274" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1612044528454">
       <screen x="0" y="0" width="1366" height="728" />

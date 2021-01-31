@@ -62,7 +62,7 @@ class _HomeScreenState extends State<HomeScreen> {
               ),
             ),
             RecentOrders(),
-            NearbyRestaurants(),
+            NearbyRestaurants(context),
           ],
         ));
   }
