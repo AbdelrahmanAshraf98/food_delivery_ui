@@ -18,8 +18,8 @@ class _RestaurantScreenState extends State<RestaurantScreen> {
         alignment: Alignment.center,
         children: [
           Container(
-            height: 175.0,
-            width: 175.0,
+            height: 165.0,
+            width: 165.0,
             decoration: BoxDecoration(
               borderRadius: BorderRadius.circular(15.0),
               image: DecorationImage(
@@ -29,8 +29,8 @@ class _RestaurantScreenState extends State<RestaurantScreen> {
             ),
           ),
           Container(
-            height: 175.0,
-            width: 175.0,
+            height: 165.0,
+            width: 165.0,
             decoration: BoxDecoration(
               borderRadius: BorderRadius.circular(15.0),
               gradient: LinearGradient(
